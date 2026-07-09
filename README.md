@@ -54,24 +54,6 @@ Browse the top 50 coins by market cap, view live prices & 24h changes, and drill
 
 ---
 
-## 🖼️ Preview
-
-> 💡 _Add your own screenshots or a GIF here to showcase the app!_
-
-<div align="center">
-
-<!-- Replace the placeholders below with real screenshots -->
-<!-- ![Home Page](docs/screenshots/home.png) -->
-<!-- ![Coin Details](docs/screenshots/coin.png) -->
-
-| Home — Coin List | Coin Details |
-| :--------------: | :----------: |
-| _screenshot coming soon_ | _screenshot coming soon_ |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 | Category      | Technology |
