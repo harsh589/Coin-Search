@@ -4,7 +4,7 @@
 
 ### A sleek, real-time cryptocurrency tracking app built with React & the CoinGecko API
 
-Browse the top 50 coins by market cap, view live prices & 24h changes, and drill into detailed stats for any coins.
+Browse the top 50 coins by market cap, view live prices & 24h changes, and drill into detailed stats for any coin.
 
 <br />
 
